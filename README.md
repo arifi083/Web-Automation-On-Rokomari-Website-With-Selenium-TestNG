@@ -8,6 +8,9 @@
 - Intellij idea
 - Allure
 
+## Prerequisite
+- Install JDK(java 17.0.5) and set Environment Variable (JAVA_HOME), Install Gradle and set Environment Variable(GRADLE_HOME)
+
 ## How to run this project
 
 - Clone this project
