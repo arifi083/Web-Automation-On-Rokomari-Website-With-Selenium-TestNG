@@ -47,7 +47,7 @@
 
 ## Automation Output Video:
 
-https://user-images.githubusercontent.com/123433625/221357629-68d30040-5fd8-4e42-924b-3955d637beb5.mp4
+
 
 
 
