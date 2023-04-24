@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test verbose="2" preserve-order="true" name="C:/Users/Arif/IdeaProjects/rokomari-pom">
+
+        <classes>
+            <class name="testcases.IndexPageTest"></class>
+            <class name="testcases.LoginPageTest"></class>
+            <class name="testcases.NavbarTest"> </class>
+            <class name="testcases.ProductPageTest"> </class>
+            <class name="testcases.AddToCartPageTest"> </class>
+            <class name="testcases.OrderPageTest"> </class>
+        </classes>
+    </test>
+</suite>
