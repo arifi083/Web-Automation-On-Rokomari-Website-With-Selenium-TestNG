@@ -23,7 +23,7 @@
 
 ## Test case check list based on the Scenerio:
 
-- User can verify Log0
+- User can verify Logo
 - User can verify title
 - User can login with valid credentials
 - User can login with invalid credentials
